@@ -10,14 +10,14 @@ PDFViewer is a GUI tool, written using python3 and tkinter, which lets you view 
 ## Installation
 To install PDFViewer along with the dependencies:
 ```
-sudo apt install python3-tk
-sudo apt install tesseract-ocr
+pip install python3-tk
+pip install tesseract-ocr
 
 git clone https://github.com/naiveHobo/pdfviewer.git
 
 cd pdfviewer/
 
-sudo pip3 install .
+pip3 install .
 ```
 
 ## Instructions
