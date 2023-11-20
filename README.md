@@ -45,3 +45,5 @@ Pillow
 ```
 
 ## Widgets Added To Anaconda3 Path
+
+C:\Users\jau19\anaconda3\Lib\site-packages\widgets
