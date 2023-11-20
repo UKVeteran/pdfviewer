@@ -43,3 +43,5 @@ pytesseract
 tesseract-ocr
 Pillow
 ```
+
+## Widgets Added To Anaconda3 Path
